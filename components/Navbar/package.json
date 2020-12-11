@@ -1,7 +1,7 @@
 {
-    "name": "@canelito/navbar",
-    "version": "0.0.0",
-    "publishConfig": {
-      "access": "public"
-    }
+  "name": "@canelito/navbar",
+  "version": "0.1.0",
+  "publishConfig": {
+    "access": "public"
   }
+}
